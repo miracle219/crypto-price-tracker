@@ -37,11 +37,11 @@ npm run dev
 2. **Setup the backend:**
 
 ```bash
-cd backend
+cd Backend
 ```
 
 ```bash
-npm install
+npm run dev
 ```
 
 - **Environment Variables**
